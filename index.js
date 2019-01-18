@@ -1,3 +1,3 @@
 function scuberGreetingForFeet(someValue) {
-  if (someValue )
+  if (someValue <= 400)
 }
