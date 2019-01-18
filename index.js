@@ -3,4 +3,6 @@ function scuberGreetingForFeet(someValue) {
   return ("This one is on me!")
 }
 
-function ternaryCheckCity()
+function ternaryCheckCity(someDistance) {
+  if 
+}
