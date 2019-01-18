@@ -8,4 +8,9 @@ function scuberGreetingForFeet(someValue) {
   }
   }
 
-function ternaryCheckCity()
+function ternaryCheckCity(someCity) {
+  if (someCity === "NYC") {
+    return ("")
+  }
+  
+}
