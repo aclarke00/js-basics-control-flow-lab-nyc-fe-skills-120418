@@ -4,5 +4,5 @@ function scuberGreetingForFeet(someValue) {
 }
 
 function ternaryCheckCity(someDistance) {
-  if 
+  con
 }
