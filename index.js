@@ -1,3 +1,3 @@
-function scuberGreetingForFeet() {
+function scuberGreetingForFeet(someValue) {
   
 }
